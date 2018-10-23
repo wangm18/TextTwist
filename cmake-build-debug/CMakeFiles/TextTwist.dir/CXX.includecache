@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Martin Wang/CLionProjects/Text-Twist/TextTwist.cpp
+TextTwist.h
+C:/Users/Martin Wang/CLionProjects/Text-Twist/TextTwist.h
+iostream
+-
+
+C:/Users/Martin Wang/CLionProjects/Text-Twist/TextTwist.h
+Trie.h
+C:/Users/Martin Wang/CLionProjects/Text-Twist/Trie.h
+
+C:/Users/Martin Wang/CLionProjects/Text-Twist/Trie.cpp
+Trie.h
+C:/Users/Martin Wang/CLionProjects/Text-Twist/Trie.h
+fstream
+-
+iostream
+-
+
+C:/Users/Martin Wang/CLionProjects/Text-Twist/Trie.h
+TrieNode.h
+C:/Users/Martin Wang/CLionProjects/Text-Twist/TrieNode.h
+string
+-
+
+C:/Users/Martin Wang/CLionProjects/Text-Twist/TrieNode.cpp
+TrieNode.h
+C:/Users/Martin Wang/CLionProjects/Text-Twist/TrieNode.h
+cstddef
+-
+iostream
+-
+string
+-
+
+C:/Users/Martin Wang/CLionProjects/Text-Twist/TrieNode.h
+string
+-
+
+C:/Users/Martin Wang/CLionProjects/Text-Twist/texttwistdriver.cpp
+TextTwist.h
+C:/Users/Martin Wang/CLionProjects/Text-Twist/TextTwist.h
+iostream
+-
+
